@@ -17,8 +17,6 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [author]
   name = "Coiffure Graf Rothenburg"
 
-[module] [module.hugoVersion] extended = true min = '0.111.0'
-
 [blackfriday]
   hrefTargetBlank = true
   # noreferrerLinks = true

@@ -113,3 +113,4 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [markup.goldmark.renderer]
 unsafe= true
 [module] [module.hugoVersion] extended = true min = '0.111.0'
+

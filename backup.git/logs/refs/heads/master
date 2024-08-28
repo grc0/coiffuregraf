@@ -1,0 +1,56 @@
+0000000000000000000000000000000000000000 0a3a87f58319d4c4d2b499880f5c4cf370087203 GRC_FWL <christoph.graf@cege.ch> 1579422659 +0100	commit (initial): Initial commit
+0a3a87f58319d4c4d2b499880f5c4cf370087203 47753c699ae2686d9728a2528c65dd51ae59a217 GRC_FWL <christoph.graf@cege.ch> 1579423059 +0100	commit: baseUrl test
+47753c699ae2686d9728a2528c65dd51ae59a217 072ed3dd2638f86a75e478ceadeea1b6e7c768fd GRC_FWL <christoph.graf@cege.ch> 1579429958 +0100	commit: Neue Seiten erstellt
+072ed3dd2638f86a75e478ceadeea1b6e7c768fd 73980a6d1e9f590c412a934b0ca4bc473adae06f GRC_FWL <christoph.graf@cege.ch> 1579442615 +0100	commit: shortcode fuer karte
+73980a6d1e9f590c412a934b0ca4bc473adae06f ed6d4e8be6cef61c9d1ffbf32116c06d99e01bb9 GRC_FWL <christoph.graf@cege.ch> 1579443772 +0100	commit: map responsive gemacht
+ed6d4e8be6cef61c9d1ffbf32116c06d99e01bb9 c13ebb1f5f7f096d4772b02563b69ee0c0df2b71 GRC_FWL <christoph.graf@cege.ch> 1579465953 +0100	commit: mobile menu salbei
+c13ebb1f5f7f096d4772b02563b69ee0c0df2b71 4fa992d085bd4600e0d19a773a8aaf5fe2224586 GRC_FWL <christoph.graf@cege.ch> 1579631306 +0100	commit: bounce)nRight mit slideInRight ersetzt
+4fa992d085bd4600e0d19a773a8aaf5fe2224586 eb0a58f8c9e4b664f063906c153c1fbc344d5f4d GRC_FWL <christoph.graf@cege.ch> 1579639001 +0100	commit: creo-light als Schrift gesetzt
+eb0a58f8c9e4b664f063906c153c1fbc344d5f4d 287d43706c2edb5b602dcb165472063b5c735a46 GRC_FWL <christoph.graf@cege.ch> 1579756346 +0100	commit: tel link 1. versuch
+287d43706c2edb5b602dcb165472063b5c735a46 3f31f6d6124fb853ebe71de1c955d2934ae3eefa GRC_FWL <christoph.graf@cege.ch> 1579812911 +0100	commit: klickbare telefonnummer
+3f31f6d6124fb853ebe71de1c955d2934ae3eefa 8cc283def21d5238da14f5d96afcb2ac776e5774 GRC_FWL <christoph.graf@cege.ch> 1584478853 +0100	commit: geschlossen corona
+8cc283def21d5238da14f5d96afcb2ac776e5774 0f44e91c0085652595860d39859589c7e84af001 GRC_FWL <christoph.graf@cege.ch> 1584527999 +0100	commit: robots entfernt
+0f44e91c0085652595860d39859589c7e84af001 c20c7c51a5f7b177cfe235e94dd86aef87170a1e GRC_FWL <christoph.graf@cege.ch> 1584528209 +0100	commit: robots entfernt
+c20c7c51a5f7b177cfe235e94dd86aef87170a1e 4c0fbc82dca107d5510e8d0135ecf0d173d53965 GRC_FWL <christoph.graf@cege.ch> 1584567952 +0100	commit: unnötige seiten gelöscht
+4c0fbc82dca107d5510e8d0135ecf0d173d53965 39ded74b142c73cbc20bccf6c2faff2ecfe470f4 GRC_FWL <christoph.graf@cege.ch> 1584568068 +0100	commit: 1
+39ded74b142c73cbc20bccf6c2faff2ecfe470f4 be4058ab1f1f5c8ab37fd956df58d640ec12f9ff GRC_FWL <christoph.graf@cege.ch> 1585500385 +0200	commit: Beschreibung angepasst
+be4058ab1f1f5c8ab37fd956df58d640ec12f9ff 167f836fc45866e81356313033670a5a5038c1d2 GRC_FWL <christoph.graf@cege.ch> 1586234018 +0200	commit: angebotseite erstellt; farbe salbei geändert
+167f836fc45866e81356313033670a5a5038c1d2 ccadf6b5c560d70db370155db0a9470c144a987f GRC_FWL <christoph.graf@cege.ch> 1586234363 +0200	commit: nicht benötigte files gelöscht
+ccadf6b5c560d70db370155db0a9470c144a987f 44b6ef2f5cb9788d9e300bfb553a6296a92d89f0 GRC_FWL <christoph.graf@cege.ch> 1586408821 +0200	commit: verlängert bis 26. april
+44b6ef2f5cb9788d9e300bfb553a6296a92d89f0 e58d3d18b3f5eb04aed4c6a2a351caa10d325b18 GRC_FWL <christoph.graf@cege.ch> 1586589629 +0200	commit: 1
+e58d3d18b3f5eb04aed4c6a2a351caa10d325b18 930e07fd8723e2ba9d4302f4ac471eb4e7baf958 GRC_FWL <christoph.graf@cege.ch> 1587284662 +0200	commit: Text auf Startseite Footer responsive
+930e07fd8723e2ba9d4302f4ac471eb4e7baf958 9d26166faef5f6839d4cdf78aea602b419b57b2c GRC_FWL <christoph.graf@cege.ch> 1587409305 +0200	commit: Anpassungen mit Michèle
+9d26166faef5f6839d4cdf78aea602b419b57b2c 5054af9dcb4c0fd330366359030901afd87b65cb GRC_FWL <christoph.graf@cege.ch> 1587447666 +0200	commit: telefonnummer auf startseite responsive
+5054af9dcb4c0fd330366359030901afd87b65cb 9d37b36c03fdcfc1ca29e7e0a77de2a39afbe6ec GRC_FWL <christoph.graf@cege.ch> 1587499217 +0200	commit: ProdukteSeite ergänzt
+9d37b36c03fdcfc1ca29e7e0a77de2a39afbe6ec 6c7420befc3f8ed7b22630f75c242f49e63d7e96 GRC_FWL <christoph.graf@cege.ch> 1587534062 +0200	commit: Schrift auf mobiler Startseite verkleinert
+6c7420befc3f8ed7b22630f75c242f49e63d7e96 4d768f72185e21600c5c82cf9a8fa1ac35d12c56 GRC_FWL <christoph.graf@cege.ch> 1587554376 +0200	commit: Keywords ergänzt
+4d768f72185e21600c5c82cf9a8fa1ac35d12c56 6bdd0340d405af3c81f9901250ef1ab64e3f54c8 GRC_FWL <christoph.graf@cege.ch> 1587557662 +0200	commit: Telefonnummer transparenz angepasst
+6bdd0340d405af3c81f9901250ef1ab64e3f54c8 f49eb6d40ef156054d360038165b6df650982c12 GRC_FWL <christoph.graf@cege.ch> 1587668819 +0200	commit: analytics eingebaut
+f49eb6d40ef156054d360038165b6df650982c12 f0e032ba63d5450d1fbe33bd6b32191e69173bc0 GRC_FWL <christoph.graf@cege.ch> 1587890225 +0200	commit: Team
+f0e032ba63d5450d1fbe33bd6b32191e69173bc0 71fd506d85730499daa3a8c7116b7adaf8a7ea79 GRC_FWL <christoph.graf@cege.ch> 1587962907 +0200	commit: WebP Bilder wieder zu Jpg
+71fd506d85730499daa3a8c7116b7adaf8a7ea79 4b6ed64d0f3c6d5c5be2e26f83c17133deb38fe2 GRC_FWL <christoph.graf@cege.ch> 1587989540 +0200	commit: abstand oberhalb vom logo auf der startseite
+4b6ed64d0f3c6d5c5be2e26f83c17133deb38fe2 d8d4d22a34efbcf5e94db2ca29c3e8ff19f39289 GRC_FWL <christoph.graf@cege.ch> 1589620554 +0200	commit: Folienmeches Ganzkopf ab Fr. 90.-
+d8d4d22a34efbcf5e94db2ca29c3e8ff19f39289 e991192d7863cf2f55758b5405bacdc6f8776984 GRC_FWL <christoph.graf@cege.ch> 1600936833 +0200	commit: vanessa müller entfernt
+e991192d7863cf2f55758b5405bacdc6f8776984 33ade4562f381ecf85f5f4871f9d7f720680b696 GRC_FWL <christoph.graf@cege.ch> 1603170680 +0200	commit: Neue Auszubildende Aufgeschaltet
+33ade4562f381ecf85f5f4871f9d7f720680b696 dc918852e3f0e83da09b13ac2b04a72b7e157e2c GRC_FWL <christoph.graf@cege.ch> 1608705247 +0100	commit: Öffnungszeiten Feiertage 2021
+dc918852e3f0e83da09b13ac2b04a72b7e157e2c d4c12175f00bc06f34b91d9a7509872520465c7d Christoph <christoph.graf@cege.ch> 1628527921 +0200	commit: MA entfernt
+d4c12175f00bc06f34b91d9a7509872520465c7d 6887ad869022509505ffbe90b6e12e960abf39d3 Christoph <christoph.graf@cege.ch> 1629745517 +0200	commit: Manuela wieder hinzugefügt
+6887ad869022509505ffbe90b6e12e960abf39d3 d29232b0bddcdae72a2cd0587998613517f0ca8e Christoph <christoph.graf@cege.ch> 1634820192 +0200	commit: Termin online buchen button
+d29232b0bddcdae72a2cd0587998613517f0ca8e 62e6e64a50ab60427dc7542669423083d7346b18 Christoph <christoph.graf@cege.ch> 1638427014 +0100	commit: letzte änderung
+62e6e64a50ab60427dc7542669423083d7346b18 cdad48e10e7a5d1f563bfe13834fa42208458fb2 Christoph <christoph.graf@cege.ch> 1638427230 +0100	commit: Tamara Vogel entfernt
+cdad48e10e7a5d1f563bfe13834fa42208458fb2 87db96c712f76a2f9c391ca5b8f93707e9cec54f Christoph <christoph.graf@cege.ch> 1659123449 +0200	commit: neues team
+87db96c712f76a2f9c391ca5b8f93707e9cec54f f424147e9064082aa90161a31f70f8db148786d0 Christoph <christoph.graf@cege.ch> 1671261552 +0100	commit: Verstärkung gesucht
+f424147e9064082aa90161a31f70f8db148786d0 75497543b38e713deb311ee6e45c69ba3edf0f8a Christoph <christoph.graf@cege.ch> 1673024934 +0100	commit: Manuela mit Fabienne ersetzt
+75497543b38e713deb311ee6e45c69ba3edf0f8a a007fd26067f3ec117e27c584327f06511e6bfe4 Christoph <christoph.graf@cege.ch> 1685042130 +0200	commit: neue preise
+a007fd26067f3ec117e27c584327f06511e6bfe4 2c43181f87d19ae1d3dbd83812860e632be9266c Christoph <christoph.graf@cege.ch> 1685042140 +0200	commit: neue preise
+2c43181f87d19ae1d3dbd83812860e632be9266c 4f8983c4ff1ad7caabf8fca2846f5981d6e85496 Christoph <christoph.graf@cege.ch> 1687803245 +0200	commit: new employees
+4f8983c4ff1ad7caabf8fca2846f5981d6e85496 5748fae052f44c55a3d8f7a82daea9bb036666db Christoph <christoph.graf@cege.ch> 1688411212 +0200	commit: sarina entfernt
+5748fae052f44c55a3d8f7a82daea9bb036666db cde7c32585c7d20f9b0f90482aedc2c4824026f1 Christoph <christoph.graf@cege.ch> 1688620479 +0200	commit: sara wüst stylistin
+cde7c32585c7d20f9b0f90482aedc2c4824026f1 46f81734a23921395780d28b32d698e0d5e8f226 Christoph <christoph.graf@cege.ch> 1690140272 +0200	commit: Betriebsferien
+46f81734a23921395780d28b32d698e0d5e8f226 41e1956d2de6fd6994d7e85bf718f918f04f0810 Christoph <christoph.graf@cege.ch> 1690488094 +0200	commit: Betriebsferien
+41e1956d2de6fd6994d7e85bf718f918f04f0810 e6bc2fdd388058f914d1874c0638f6e8ed063249 Christoph <christoph.graf@cege.ch> 1691850098 +0200	commit: ferien rückgangig
+e6bc2fdd388058f914d1874c0638f6e8ed063249 d37ae213d5aac278f038c4ae0d5da849e465326e Christoph <christoph.graf@cege.ch> 1698906322 +0100	commit: selina lohri berufsprüfung
+d37ae213d5aac278f038c4ae0d5da849e465326e 880c6e17bd407f7387c78648382d70b44cc02695 Christoph <christoph.graf@cege.ch> 1704184014 +0100	commit: deleted joel ramsauer
+880c6e17bd407f7387c78648382d70b44cc02695 1d5edfb499548c39baf49d23e4a242b74acbb6fb Christoph <christoph.graf@cege.ch> 1704740720 +0100	commit: öffnungszeiten normal
+1d5edfb499548c39baf49d23e4a242b74acbb6fb f05bf3a1ace23ccad0879228ff23866953124183 Christoph <christoph.graf@cege.ch> 1708277166 +0100	commit: öffnungszeiten fasnacht
+f05bf3a1ace23ccad0879228ff23866953124183 c82e314ebfff23413ed73d2e22038aedfd727dc7 Christoph <christoph.graf@cege.ch> 1712775446 +0200	commit: Kathrin Vogel entfernt und Verstärkung gesucht

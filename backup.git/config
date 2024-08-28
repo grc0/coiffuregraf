@@ -1,0 +1,12 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = git@bitbucket.org:GRC_FWL/coiffuregraf.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
+	pushurl = https://github.com/grc0/coiffuregraf.git
+[branch "master"]
+	remote = origin
+	merge = refs/heads/master

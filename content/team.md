@@ -88,6 +88,13 @@ Willst du Teil dieses tollen Teams sein? [Melde dich noch heute bei Michèle!](.
         Chiara Weingartner
         </div>
 
+<div class="container">
+        <img src="../team/23.jpg" alt="Coiffure Graf Rothenburg Zarah Schaub" class="image">
+        <div class="middle">
+          <div class="text">Stylistin</div>
+        </div>
+         Zarah Schaub
+        </div>
 
 <div class="container">
         <img src="../team/21.jpg" alt="Coiffure Graf Rothenburg Cinja Roth" class="image">
@@ -97,18 +104,8 @@ Willst du Teil dieses tollen Teams sein? [Melde dich noch heute bei Michèle!](.
         Cinja Roth
         </div>
 
-
 <div class="container">
-        <img src="../team/22.jpg" alt="Coiffure Graf Rothenburg Zarah Schaub" class="image">
-        <div class="middle">
-          <div class="text">Stylistin</div>
-        </div>
-         Zarah Schaub
-        </div>
-
-
-<div class="container">
-        <img src="../team/23.jpg" alt="Coiffure Graf Rothenburg Guendalina Musca" class="image">
+        <img src="../team/22.jpg" alt="Coiffure Graf Rothenburg Guendalina Musca" class="image">
         <div class="middle">
           <div class="text">Lernende</div>
         </div>

@@ -40,14 +40,6 @@ Willst du Teil dieses tollen Teams sein? [Melde dich noch heute bei Michèle!](.
     </div>    
 
 <div class="container">
-        <img src="../team/23.jpg" alt="Coiffure Graf Rothenburg Zarah Schaub" class="image">
-        <div class="middle">
-          <div class="text">Coiffeuse</div>
-        </div>
-         Zarah Schaub
-        </div>
-
-<div class="container">
       <img src="../team/19.jpg" alt="Coiffure Graf Rothenburg Daniela Barbuto" class="image">
       <div class="middle">
         <div class="text">Coiffeuse<br>(Teilzeit jeweils Dienstag, Freitag und Samstag)</div>

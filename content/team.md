@@ -24,14 +24,6 @@ Willst du Teil dieses tollen Teams sein? [Melde dich noch heute bei Michèle!](.
 </div>
 
 <div class="container">
-      <img src="../team/14.jpg" alt="Coiffure Graf Rothenburg Sara Wüst" class="image">
-      <div class="middle">
-        <div class="text">Coiffeuse</div>
-      </div>
-      Sara Wüest
-      </div>
-
-<div class="container">
       <img src="../team/18.jpg" alt="Coiffure Graf Rothenburg Selina Lohri" class="image">
       <div class="middle">
         <div class="text">Coiffeuse mit Berufsprüfung</div>

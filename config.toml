@@ -88,24 +88,19 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     weight = 10
 
   [[menu.main]]
-    name = "Verstärkung gesucht"
-    url = "recruitment/"
-    weight = 20    
-
-  [[menu.main]]
     name = "Angebot"
     url = "angebot/"
-    weight = 30
+    weight = 20
 
   [[menu.main]]
     name = "Kontakt"
     url = "kontakt/"
-    weight = 40
+    weight = 30
 
   [[menu.main]]
     name = "Produkte"
     url = "produkte/"
-    weight = 50
+    weight = 40
 
 
 [markup.goldmark.renderer]

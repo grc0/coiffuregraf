@@ -3,8 +3,6 @@ title = "Team"
 date = "2023-06-19"
 +++
 
-Willst du Teil dieses tollen Teams sein? [Melde dich noch heute bei Michèle!](../recruitment)
-
 <div class="team">
 
 <div class="container">

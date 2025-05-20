@@ -63,6 +63,14 @@ date = "2023-06-19"
 </div>
 
 <div class="container">
+  <img src="../team/24.jpg" alt="Coiffure Graf Rothenburg Carmen Calo" class="image">
+  <div class="middle">
+    <div class="text">Coiffeuse<br>(Teilzeit jeweils Mittwoch und Donnerstag und Samstag)</div>
+  </div>
+  Carmen Calo
+</div>
+
+<div class="container">
   <img src="../team/12.jpg" alt="Coiffure Graf Rothenburg Vreni Bühlmann" class="image">
   <div class="middle">
     <div class="text">Assistentin<br>(Teilzeit)</div>

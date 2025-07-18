@@ -22,21 +22,20 @@ date = "2023-06-19"
 </div>
 
 <div class="container">
-        <img src="../team/16.jpg" alt="Coiffure Graf Rothenburg Chiara Weingartner" class="image">
-        <div class="middle">
-          <div class="text">Coiffeuse</div>
-        </div>
-        Chiara Weingartner
-        </div>
-
-
-<div class="container">
       <img src="../team/18.jpg" alt="Coiffure Graf Rothenburg Selina Lohri" class="image">
       <div class="middle">
         <div class="text">Coiffeuse mit Berufsprüfung</div>
       </div>
       Selina Lohri
     </div>    
+
+<div class="container">
+        <img src="../team/16.jpg" alt="Coiffure Graf Rothenburg Chiara Weingartner" class="image">
+        <div class="middle">
+          <div class="text">Coiffeuse</div>
+        </div>
+        Chiara Weingartner
+        </div>
 
 <div class="container">
       <img src="../team/19.jpg" alt="Coiffure Graf Rothenburg Daniela Barbuto" class="image">
@@ -49,7 +48,7 @@ date = "2023-06-19"
 <div class="container">
   <img src="../team/17.jpg" alt="Coiffure Graf Rothenburg Fabienne Würgler" class="image">
   <div class="middle">
-    <div class="text">Coiffeuse<br>(Teilzeit jeweils Donnerstag und der erste Samstag pro Monat)</div>
+    <div class="text">Coiffeuse<br>(Teilzeit jeweils Dienstag und der erste Samstag pro Monat)</div>
   </div>
   Fabienne Würgler
 </div>

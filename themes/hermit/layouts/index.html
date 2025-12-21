@@ -62,9 +62,9 @@
 		<div id="home-footer">
 			<p><br>
 
-				<div class="bigfooter">&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a> |  041 280 56 33 {{ .Site.Params.footerCopyright | safeHTML }}</div>
+				<div class="bigfooter">&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.Author.name }}</a> |  041 280 56 33 {{ .Site.Params.footerCopyright | safeHTML }}</div>
 
-				<div class="smallfooter">&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Author.name }}</a> {{ .Site.Params.footerCopyright | safeHTML }}</div>
+				<div class="smallfooter">&copy; {{ now.Format "2006" }} <a href="{{ .Site.BaseURL }}">{{ .Site.Params.Author.name }}</a> {{ .Site.Params.footerCopyright | safeHTML }}</div>
 				<br></p>
 
 		</div>

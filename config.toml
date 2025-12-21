@@ -1,7 +1,7 @@
 baseURL = "https://coiffuregraf.ch"
 languageCode = "de-CH"
 defaultContentLanguage = "de"
-disableKinds = ["taxonomy", "taxonomyTerm"]
+disableKinds = ["taxonomy"]
 title = "Coiffure Graf Rothenburg"
 theme = "hermit"
 # enableGitInfo = true
@@ -13,9 +13,6 @@ rssLimit = 10  # Maximum number of items in the RSS feed.
 enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/functions/emojify/
 # googleAnalytics = "UA-123-45"
 # disqusShortname = "yourdiscussshortname"
-
-[author]
-  name = "Coiffure Graf Rothenburg"
 
 [blackfriday]
   hrefTargetBlank = true
@@ -30,6 +27,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 
 
 [params]
+  [params.author]
+    name = "Coiffure Graf Rothenburg"
+
   dateform        = "Jan 2, 2006"
   dateformShort   = "Jan 2"
   dateformNum     = "2006-01-02"

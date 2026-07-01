@@ -138,17 +138,4 @@ date = "2025-12-21"
          Guendalina Musca
         </div>
 
-<div class="container">
-        <picture>
-          <source srcset="../team/109.webp" type="image/webp">
-          <img src="../team/109.jpg" alt="Coiffure Graf Rothenburg Ajnur Memeti" class="image">
-        </picture>
-        <div class="middle">
-          <div class="text">Lernende</div>
-        </div>
-        Ajnur Memeti
-        </div>
-</div>
-
-
 <p><br><br><p>

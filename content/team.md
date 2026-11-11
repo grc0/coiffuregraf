@@ -138,4 +138,17 @@ date = "2025-12-21"
          Guendalina Musca
         </div>
 
+<div class="container">
+        <picture>
+          <source srcset="../team/113.webp" type="image/webp">
+          <img src="../team/113.jpg" alt="Coiffure Graf Rothenburg Solea Palermo" class="image">
+        </picture>
+        <div class="middle">
+          <div class="text">Lernende</div>
+        </div>
+        Solea Palermo
+        </div>
+</div>
+
+
 <p><br><br><p>
